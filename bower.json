@@ -25,12 +25,12 @@
     "tests"
   ],
   "dependencies": {
-    "paper-input-elements": "PolymerElements/paper-input-elements#2.0",
-    "paper-overlay-elements": "PolymerElements/paper-overlay-elements#2.0",
-    "paper-ui-elements": "PolymerElements/paper-ui-elements#2.0",
-    "paper-behaviors": "PolymerElements/paper-behaviors#2.0",
-    "paper-ripple": "PolymerElements/paper-ripple#2.0",
-    "paper-styles": "PolymerElements/paper-styles#2.0"
+    "paper-input-elements": "PolymerElements/paper-input-elements#master",
+    "paper-overlay-elements": "PolymerElements/paper-overlay-elements#master",
+    "paper-ui-elements": "PolymerElements/paper-ui-elements#master",
+    "paper-behaviors": "PolymerElements/paper-behaviors#master",
+    "paper-ripple": "PolymerElements/paper-ripple#master",
+    "paper-styles": "PolymerElements/paper-styles#master"
   },
   "main": "paper-elements.html",
   "variants": {
